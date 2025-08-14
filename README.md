@@ -37,7 +37,7 @@ User-Friendly Visuals: Optimized for non-technical stakeholders.
 
 How to Use:
 Clone this repository:
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/f20230593-prog/Developing-Data-Driven-Dashboards-From-Concept-to-KPI-Execution/tree/main.
 Open .pbix files in Power BI Desktop (Windows) or Power BI Service (Web).
 For Looker Studio reports, open the shared links or .pdf snapshots in the LookerStudio_Reports folder.
 Replace the sample datasets with your own for customized insights.
